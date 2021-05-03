@@ -9,7 +9,8 @@ Fixes:
 Fixed SWAT_JEEP army response spawning soldiers with no armor (model changed to marine 03)
 Fixed annihilators not spawning, R* prob forgot to change POLICE_HELI_1 to POLICE_HELI_2 in 4-5 stars
 speaking of that, 5 stars replace pursuing helis to annihilators
-Tweaks:
+
+Tweaks (only for improvedresponses version):
 
 Detection is now 0.0, so no instant detection (might not work)
 ParoleDuration is now 12000 if using GTA 4 Wanted Radius
