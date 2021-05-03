@@ -17,3 +17,7 @@ Wanted Level 5 hidden evasion timer is infinite, so i'd recommend using GTA 4 Wa
 Law Spawn Delays tweaked, see values in <LawSpawnDelayMin>
 FIB and NOOSE added, the game will pick 1 of them once per chase, meaning 1 time you can be chased by FIB or another time by NOOSE.
 Regular cops are rare at 4 stars, usually 4 units spawn, at 5 stars they don't spawn at all unless spawned by roadblock or ambient.
+
+
+Credits:
+uses a copy of Combat Tweaks by Cpast, so credits to Cpast for making Combat Tweaks
